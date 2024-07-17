@@ -1,6 +1,6 @@
-# Rainbow World
-
-1. A **rainbow** mountain scene
+# 🌦️ 🌈 Rainbow World 🌈 🌦️
+ 
+1. A 🌈 mountain scene
 
    ![A river runnning through a mountain valley with brightly vcolored flowers on the banks and a rainbow overhead.](rainbow-mountain-scene.png)
 
